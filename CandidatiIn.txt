@@ -1,0 +1,4 @@
+Andrei Popa 1990327080017 informatica 8.9 9.0 5.6
+Maria Pop 2990805080034 matematica 9.5 9.9 7.8
+Alexandra Macovei 2990706080090 informatica 7.8 8.9 4.5
+Alin Popescu 1991009080024 informatica 8.3 8.9 8.9
